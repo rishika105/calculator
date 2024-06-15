@@ -27,4 +27,4 @@ calculator/
    git clone https://github.com/your-username/calculator.git
    cd calculator
    ```
-2. **Open the `index.html` file in your browser
+2. **Open the `index.html` file in your browser**
