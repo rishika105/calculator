@@ -9,6 +9,9 @@ This is a web-based calculator that performs basic arithmetic operations such as
 - **Delete Last Entry**: `DE` button removes the last character.
 - **Evaluate**: `=` button calculates the result.
 
+##Screenshot
+![image](https://github.com/user-attachments/assets/82eb52bd-f262-40e5-b9c7-b7cf5d7b52cc)
+
 ## Usage
 1. Enter numbers using the numeric buttons.
 2. Select an operation.
